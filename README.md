@@ -53,7 +53,8 @@ This is a to-do task management application that allows users to add, delete, ed
    npm start
    ```
    The frontend will typically run on `http://localhost:3000`.
-
+## Output
+![app screenshot](/todofrontend/src/assets/Preview.png)
 ## Usage
 - Access the application in your web browser at `http://localhost:3000`.
 - Use the interface to add, delete, edit, and search for tasks.
